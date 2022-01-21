@@ -1,6 +1,6 @@
 # Convolution-based dissimilarity for applications in bioinformatics
 
-The repository offers a self-contained Jupyter notebook illustrating convolut-based dissimilarity measure in application to genomics. It comes with the test data (public domain) containing 76 genomes of coronaviruses. We include a complet examply of computing their phylogenetic tree.
+The repository offers a self-contained Jupyter notebook illustrating convolution-based dissimilarity measure in application to genomics. It comes with the test data (public domain) containing 76 genomes of coronaviruses. We include a complet examply of computing their phylogenetic tree.
 
 ## Citation
 
