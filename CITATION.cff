@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this software as below."
+authors:
+  - family-names: Igor
+    given-names: Borovikov
+    orcid: https://orcid.org/0000-0002-0861-0001
+title: "Python implementation of convolution-based strings comparison for clustering in bioinformatics"
+version: 1.0.0
+date-released: 2022-01-23
