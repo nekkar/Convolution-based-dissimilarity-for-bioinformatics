@@ -6,7 +6,7 @@ The FFT-based method for strings comparision in application to bionformatics can
 
 ## References
 
-[1] Molyavko,  A.,  Shaidurov,  V.,  Karepova,  E.,  Sadovsky,  M.  “HighlyParallel Convolution Method to Compare DNA Sequences with EnforcedIn/Del and Mutation Tolerance”. In:International Work-Conference on Bioinformatics and Biomedical Engineering, LNBI, vol. 12108, pp. 472–481, 2020.
+Coming soon
 
 ## Citation
 
